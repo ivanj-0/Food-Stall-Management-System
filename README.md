@@ -1,6 +1,6 @@
-# Enatega Multi-vendor
+# Food Stall Management System
 
-[![Demo video](https://i.imgur.com/araSrCj.png)](https://www.youtube.com/watch?v=8sE7ivnFyo0&feature=youtu.be&ab_channel=NinjasCode)
+
 
 <br/>
 
