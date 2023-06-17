@@ -1,0 +1,3 @@
+interface Stats{
+    void display();
+}
